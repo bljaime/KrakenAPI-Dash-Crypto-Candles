@@ -1,0 +1,6 @@
+.idea
+*.pyc
+.DS_Store # Only if you are using macOS
+old/
+Pipfile
+Pipfile.lock
