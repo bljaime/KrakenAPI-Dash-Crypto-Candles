@@ -6,15 +6,15 @@ In order to simplify the task, [Cloud9](https://c9.io) has been used, in which I
 
 ## Description
 
-/assets
-  favicon.ico: Icon to display in the browser tab
-  style.css: Style sheet
+- /assets
+  - favicon.ico: Icon to display in the browser tab
+  - style.css: Style sheet
 
-.gitignore: Indicates which files should be ignored by git
-app.py: Dash application script
-currencies.py: D
+- .gitignore: Indicates which files should be ignored by git
+- app.py: Dash application script
+- currencies.py: D
 
 
-## Heroku app
+## Heroku app site
 
-This is what we visualize when we enter the URL: <p align="center"> <img src="/imgs/screenshot-heroku.PNG"/>
+This is what we visualize when we enter the [Heroku site](https://ancient-coast-97559.herokuapp.com/): <p align="center"> <img src="/imgs/screenshot-heroku.PNG"/>
